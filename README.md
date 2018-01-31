@@ -1,5 +1,5 @@
 # Cisco Spark bot example
-This tutorial will demonstrate how to set up a Cisco Spark bot written in Python.
+This projects provides you with everything you need to set up a Cisco Spark bot.
 
 The bot can process incoming webhook requests and respond to certain events that occur in Spark using the [Cisco Spark REST API](https://developer.ciscospark.com/getting-started.html). Alternatively, you can use the appropiate [Spark SDK](https://github.com/ciscospark) of your choosing.
 
